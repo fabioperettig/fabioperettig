@@ -19,4 +19,8 @@ As a **designer** with **15 years of experience** in **Design** and **Motion Gra
   <img align="center" alt="html" height="30" width="40" src=https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg>
   <img align="center" alt="html" height="30" width="40" src=https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg>
   <img align="center" alt="html" height="30" width="40" src=https://raw.githubusercontent.com/devicons/devicon/master/icons/markdown/markdown-original.svg>
-</div>
+</div><br><br>
+
+## Other cool stuffs ##
+
+[![An image of @fabioperettig's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/fabioperettig)](https://holopin.io/@fabioperettig)
