@@ -11,7 +11,7 @@ As a **designer** with **15 years of experience** in **Design** and **Motion Gra
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=fabioperettig&theme=radical&layout=compact&langs_count=8&card_width=320" />
 </a>
 
-
+! [Snake animation](https://github.com/fabioperettig/fabioperettig/blob/output/github-contribution-grid-snake-svg)
 
 ## Actualy learning ##
 <div style="display; inline_block">
