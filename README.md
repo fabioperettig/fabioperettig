@@ -10,7 +10,6 @@ As a **designer** with **15 years of experience** in **Design** and **Motion Gra
   <img align="center" alt="Java" height="30" width="40" src=https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg>
   <img align="center" alt="Java" height="30" width="40" src=https://upload.wikimedia.org/wikipedia/commons/6/61/PICO-8_logo.svg>
   <img align="center" alt="html" height="30" width="40" src=https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg>
-  [![roadmap.sh](https://roadmap.sh/card/tall/69bc967833a0ad7a57f99122?variant=dark)](https://roadmap.sh)
 </div><br><br>
 
-
+[![roadmap.sh](https://roadmap.sh/card/tall/69bc967833a0ad7a57f99122?variant=dark)](https://roadmap.sh)
