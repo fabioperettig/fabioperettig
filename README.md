@@ -12,5 +12,7 @@ As a **designer** with **15 years of experience** in **Design** and **Motion Gra
   <img align="center" alt="html" height="30" width="40" src=https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg>
 </div><br><br>
 
+<div style="display; inline_block">
 [![roadmap.sh](https://roadmap.sh/card/tall/69bc967833a0ad7a57f99122?variant=dark)](https://roadmap.sh)
-<img width="1080" height="1920" alt="gitcity-fabioperettig-stories (1)" src="https://github.com/user-attachments/assets/1a6b828b-e70b-4176-b151-baf88bbb4fe8" />
+<img width=auto height="360" alt="gitcity-fabioperettig-stories (1)" src="https://github.com/user-attachments/assets/1a6b828b-e70b-4176-b151-baf88bbb4fe8" />
+</div><br><br>
