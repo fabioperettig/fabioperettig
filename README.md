@@ -13,3 +13,4 @@ As a **designer** with **15 years of experience** in **Design** and **Motion Gra
 </div><br><br>
 
 [![roadmap.sh](https://roadmap.sh/card/tall/69bc967833a0ad7a57f99122?variant=dark)](https://roadmap.sh)
+<img width="1080" height="1920" alt="gitcity-fabioperettig-stories (1)" src="https://github.com/user-attachments/assets/1a6b828b-e70b-4176-b151-baf88bbb4fe8" />
