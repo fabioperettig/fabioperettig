@@ -12,9 +12,9 @@ As a **designer** with **15 years of experience** in **Design** and **Motion Gra
   <img align="center" alt="html" height="30" width="40" src=https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg>
 </div><br><br>
 
-<div align="center">
+<div align="left">
   <a href="https://roadmap.sh">
     <img src="https://roadmap.sh/card/tall/69bc967833a0ad7a57f99122?variant=dark" width="auto" height="360" style="display: inline-block;">
   </a>
-  <img src="https://github.com/user-attachments/assets/987d5687-3c74-4d61-a35e-ca55d7ac0380" width="auto" height="360" alt="gitcity-fabioperettig-stories" style="display: inline-block;">
+  <img src="https://github.com/user-attachments/assets/987d5687-3c74-4d61-a35e-ca55d7ac0380" width="auto" height="640" alt="gitcity-fabioperettig-stories" style="display: inline-block;">
 
