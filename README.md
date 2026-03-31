@@ -1,17 +1,49 @@
-# Hello there, welcome to my Github.
-## My name is Fabio Peretti and my nickname is "fabioperettig"!
+# Hi there, I'm Fabio Peretti!
 
-As a **designer** with **15 years of experience** in **Design** and **Motion Graphics**, I have recently decided to explore and deepen my knowledge in the field of **programming** and **technology**. My journey began a few years ago when I started creating “expressions” for my animations in After Effects. I quickly realized that I was more interested in observing the process of the effect in code than seeing the effect itself. Over time, I gained experience and developed some front-end projects in **JavaScript**. However, I discovered that **back-end** development is what truly sparks my interest. Currently, I am honing my skills in **Java** (the good old Java root).
+### Designer Specialist heading to Software Engineering
 
-## Actualy learning ##
-<div style="display; inline_block">
-  <img align="center" alt="Java" height="30" width="40" src=https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg>
-  <img align="center" alt="Java" height="30" width="40" src=https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg>
-  <img align="center" alt="Java" height="30" width="40" src=https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg>
-  <img align="center" alt="Java" height="30" width="40" src=https://upload.wikimedia.org/wikipedia/commons/6/61/PICO-8_logo.svg>
-  <img align="center" alt="html" height="30" width="40" src=https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg>
-  <img align="center" alt="html" height="30" width="40" src=https://github.com/devicons/devicon/blob/master/icons/cobol/cobol-original.svg>
-</div><br><br>
+
+---
+
+### ⚡ About Me
+With over a decade of experience in **Design and Motion Graphics**, my passion for logic led me from After Effects expressions to the core of software development. I thrive in building efficient, scalable systems and solving complex problems with a focus on performance.
+
+*   🔭 **Current focus:** Mastering **Java** (Spring Boot) and exploring the legacy power of **COBOL**.
+*   ⚙️ **Background:** Expert in visual storytelling, now applying that analytical mindset to back-end engineering.
+*   💬 **Let's talk about:** Back-end architecture, legacy systems, and how design principles improve UX in technical products.
+
+---
+
+### 🛠️ Tech Stack & Tools
+
+#### Back-end Core
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![Static Badge](https://img.shields.io/badge/Jakarta%20EE-black?style=for-the-badge&logo=boat&logoColor=%23000000&color=%23f9f1e7)
+![COBOL](https://img.shields.io/badge/COBOL-005687?style=for-the-badge&logo=ibm&logoColor=white)
+![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
+
+#### Languages & Skills
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+
+---
+
+### 🚀 Highlighted Projects
+
+
+| Project Name | Tech Stack | Description |
+| :--- | :--- | :--- |
+| **[Project Title 01](YOUR_LINK_HERE)** | Java, Spring Boot | SOON |
+| **[Project Title 02](YOUR_LINK_HERE)** | COBOL, Mainframe | SOON |
+
+---
+
+### 📫 Connect with me
+[![LinkedIn](https://shields.io)](https://br.linkedin.com/in/fabiopguimaraes)
+
+---
+
 
 <div align="left">
   <a href="https://roadmap.sh">
