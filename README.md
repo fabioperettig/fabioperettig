@@ -40,7 +40,7 @@ With over a decade of experience in **Design and Motion Graphics**, my passion f
 ---
 
 ### 📫 Connect with me
-[![LinkedIn](https://shields.io)](https://br.linkedin.com/in/fabiopguimaraes)
+![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)(https://br.linkedin.com/in/fabiopguimaraes)
 
 ---
 
