@@ -34,8 +34,8 @@ With over a decade of experience in **Design and Motion Graphics**, my passion f
 
 | Project Name | Tech Stack | Description |
 | :--- | :--- | :--- |
-| **[Project Title 01](YOUR_LINK_HERE)** | Java, Spring Boot | SOON |
-| **[Project Title 02](YOUR_LINK_HERE)** | COBOL, Mainframe | SOON |
+| **[SOON](YOUR_LINK_HERE)** | Java, Spring Boot | SOON |
+| **[COBOL File Handler 📂](https://github.com/fabioperettig/cobol-file-handler)** | COBOL, Mainframe | Designed to read client information from a flat file, process records based on financial criteria, and generate an output file with specific data formatting. |
 
 ---
 
