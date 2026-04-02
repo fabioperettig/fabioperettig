@@ -34,7 +34,7 @@ With over a decade of experience in **Design and Motion Graphics**, my passion f
 
 | Project Name | Tech Stack | Description |
 | :--- | :--- | :--- |
-| **[Car Invetory Manager](https://github.com/fabioperettig/tarefas-ebac-Fabio-Peretti/tree/main/mod17/car-inventory-manager)** | Java | Object instantiation and management using Factory pattern and Java Generics. |
+| **[Car Invetory Manager 🇧🇷](https://github.com/fabioperettig/tarefas-ebac-Fabio-Peretti/tree/main/mod17/car-inventory-manager)** | Java | Object instantiation and management using Factory pattern and Java Generics. |
 | **[COBOL File Handler](https://github.com/fabioperettig/cobol-file-handler)** | COBOL, Mainframe | Designed to read client information from a flat file, process records based on financial criteria, and generate an output file with specific data formatting. |
 
 ---
