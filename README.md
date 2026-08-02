@@ -24,7 +24,7 @@ With over a decade of experience in **Design and Motion Graphics**, my passion f
 
 #### Languages & Skills
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 
 ---
@@ -34,8 +34,12 @@ With over a decade of experience in **Design and Motion Graphics**, my passion f
 
 | Project Name | Tech Stack | Description |
 | :--- | :--- | :--- |
-| **[Car Invetory Manager 🇧🇷](https://github.com/fabioperettig/tarefas-ebac-Fabio-Peretti/tree/main/mod17/car-inventory-manager)** | Java | Object instantiation and management using Factory pattern and Java Generics. |
+| **[🐺My Habitica Pets](https://github.com/fabioperettig/my-habitica-pets)** | Java, Typescript | A full-stack application that communicates with the Habitica API, organizes the pet metadata and returns a simplified card catalog.
 | **[COBOL File Handler](https://github.com/fabioperettig/cobol-file-handler)** | COBOL, Mainframe | Designed to read client information from a flat file, process records based on financial criteria, and generate an output file with specific data formatting. |
+| **[☕ Projeto EBAC – Persistência de Dados com Java JDBC, Generics & PostgreSQL 🇧🇷](https://github.com/fabioperettig/projEBAC3-SQL)** | Java, JDBC, PostgreSQL | Aplicação em Java focada em arquitetura de dados sem frameworks (vanilla JDBC). Destaca-se pelo uso de Generics no padrão DAO, scripts SQL automatizados e testes de integração com PostgreSQL. |
+
+
+
 
 ---
 
