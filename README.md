@@ -1,9 +1,18 @@
 # Hi there, I'm Fabio Peretti!
 
-### Designer Specialist heading to Software Engineering
-
-
----
+<table border="0">
+  <tr valign="middle">
+    <td>
+      <h2>Designer Specialist heading to Software Engineering</h2>
+      <a href="https://br.linkedin.com/in/fabiopguimaraes" target="_blank">
+        <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+      </a>
+    </td>
+    <td>
+      <a href="https://roadmap.sh"><img src="https://roadmap.sh/card/wide/69bc967833a0ad7a57f99122?variant=dark" alt="roadmap.sh"/></a>
+    </td>
+  </tr>
+</table>
 
 ### ⚡ About Me
 With over a decade of experience in **Design and Motion Graphics**, my passion for logic led me from After Effects expressions to the core of software development. I thrive in building efficient, scalable systems and solving complex problems with a focus on performance.
@@ -38,20 +47,3 @@ With over a decade of experience in **Design and Motion Graphics**, my passion f
 | **[COBOL File Handler](https://github.com/fabioperettig/cobol-file-handler)** | COBOL, Mainframe | Designed to read client information from a flat file, process records based on financial criteria, and generate an output file with specific data formatting. |
 | **[☕ Projeto EBAC – Persistência de Dados com Java JDBC, Generics & PostgreSQL 🇧🇷](https://github.com/fabioperettig/projEBAC3-SQL)** | Java, JDBC, PostgreSQL | Aplicação em Java focada em arquitetura de dados sem frameworks (vanilla JDBC). Destaca-se pelo uso de Generics no padrão DAO, scripts SQL automatizados e testes de integração com PostgreSQL. |
 
-
-
-
----
-
-### 📫 Connect with me
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://br.linkedin.com/in/fabiopguimaraes)
-
----
-
-
-<div align="left">
-  <a href="https://roadmap.sh">
-    <img src="https://roadmap.sh/card/tall/69bc967833a0ad7a57f99122?variant=dark" width="auto" height="360" style="display: inline-block;">
-  </a>
-  <img src="https://github.com/user-attachments/assets/909fafee-aca9-4879-9445-a0db1194dd1f" width="auto" height="360" alt="gitcity-fabioperettig-landscape" style="display: inline-block;">
-</div>
