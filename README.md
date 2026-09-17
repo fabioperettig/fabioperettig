@@ -40,10 +40,9 @@ With over a decade of experience in **Design and Motion Graphics**, my passion f
 
 ### 🚀 Highlighted Projects
 
-
-| Project Name | Tech Stack | Description |
-| :--- | :--- | :--- |
+| *Project Name* | *Tech Stack* | *Description* |
+| ----- | ----- | ----- |
+| [☕ PersistentDAO](https://github.com/fabioperettig/PersistentDAO_EbacMod30) | Java, JDBC, PostgreSQL | High Performance Java application with pure JDBC persistence. Focus on DAO pattern (Template Method), secure transactions and 87 automated tests. |
 | **[🐺My Habitica Pets](https://github.com/fabioperettig/my-habitica-pets)** | Java, Typescript | A full-stack application that communicates with the Habitica API, organizes the pet metadata and returns a simplified card catalog.
 | **[COBOL File Handler](https://github.com/fabioperettig/cobol-file-handler)** | COBOL, Mainframe | Designed to read client information from a flat file, process records based on financial criteria, and generate an output file with specific data formatting. |
-| **[☕ Projeto EBAC – Persistência de Dados com Java JDBC, Generics & PostgreSQL 🇧🇷](https://github.com/fabioperettig/projEBAC3-SQL)** | Java, JDBC, PostgreSQL | Aplicação em Java focada em arquitetura de dados sem frameworks (vanilla JDBC). Destaca-se pelo uso de Generics no padrão DAO, scripts SQL automatizados e testes de integração com PostgreSQL. |
 
