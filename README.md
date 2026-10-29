@@ -9,7 +9,7 @@
       </a>
     </td>
     <td>
-      <a href="https://roadmap.sh"><img src="https://roadmap.sh/card/wide/69bc967833a0ad7a57f99122?variant=dark&roadmaps=java%2Cdocker%2Cpostgresql-dba" alt="roadmap.sh"/></a>
+      <a href="https://roadmap.sh"><img src="https://roadmap.sh/card/wide/69bc967833a0ad7a57f99122?variant=dark&roadmaps=%2Cjava%2Cspring-boot%2Cdocker" alt="roadmap.sh"/></a>
     </td>
   </tr>
 </table>
